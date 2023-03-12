@@ -7,7 +7,7 @@ Atualmente faço estágio na <img src="assets/img/caixa-logo.png" height="15px" 
 * <img src="assets/img/logo-angular.png" height="20px"> | Angular
     * <img src="assets/img/html-logo.png" height="20px"> | HTML
     * <img src="assets/img/css-logo.png" height="20px"> | CSS
-    * <img src="assets/img/javascript-logo.png" height="20px"><img src="assets/img/typescript-logo.svg" height="20px"> | JavaScript | TypeScript
+    * <img src="assets/img/javaScript-logo.png" height="20px"><img src="assets/img/typescript-logo.svg" height="20px"> | JavaScript | TypeScript
 * <img src="assets/img/spring-boot-logo.webp" height="20px"> | Spring
 
 
