@@ -1,6 +1,6 @@
 # Desenvolvedor Full-Stack :computer:
 
-> Download curriculo: [CurriculoDouglas.pdf](./assets/CurriculoDouglas.pdf)
+> Download curriculo: [CurriculoDouglas.pdf](https://github.com/DouglasFJ/DouglasFJ/blob/main/assets/CurriculoDouglas.pdf)
 
 *Desenvolvedor full-stack estagiando em Análise e Desenvolvimento de Sistemas na Caixa Econômica Federal desde jan/2023 onde busco sempre aprender, inovar e entregar soluções de tecnologia para problemas complexos do mercado financeiro.*
 
